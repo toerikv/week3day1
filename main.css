@@ -1,0 +1,74 @@
+a, h1, h2, h3, div, body, html {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+.Line {
+    background-color: rgb(197, 113, 18);
+    height: 75px;
+
+    
+}
+.Line h1 {
+    margin: 10px;
+    float: left;;
+    color: #eee;
+  }
+  
+  #nav {
+    
+    padding: 10px;
+    text-align: center;
+    float: right;
+    margin-top: 20px;
+    
+  }
+  
+  #nav a {
+    color: #eee;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+   
+  }
+  #AllBox {
+    
+   
+  }
+  .Box {
+      
+    float: left;
+    border: 1px solid rgb(201, 83, 15);
+    width: 200px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px;
+   
+  }
+  #Text {
+
+    padding: 10px;
+    text-align: center;
+   
+  }
+  #Text p{
+
+    color: #0c0c0c;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 10px;
+    text-align: left;
+   
+  }
+  #Link {
+    background-color: rgb(197, 113, 18);
+    padding: 10px;
+    text-align: center;
+    margin: 10px; 
+  }
+  #Link a {
+    color: #eee;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 1px;
+  }
